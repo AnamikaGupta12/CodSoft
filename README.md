@@ -29,7 +29,7 @@ CodSoft Java-Developer Internship
 ## Installation
 - Just, Clone this repository - 
 ````bash 
-
+https://github.com/AnamikaGupta12/CodSoft.git
 ````
 - Run File Using Any Java Application Like Eclipse IDE For Java Developer or Visual Studio Code
 Java Application Like Eclipse IDE For Java Developer or Visual Studio Code
